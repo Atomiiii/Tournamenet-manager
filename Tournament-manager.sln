@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35913.81 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament-manager", "Tournament-manager\Tournament-manager.csproj", "{4A6105DB-A031-4E86-A24D-82720AB9C93D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament-manager", "Tournament-manager\Tournament-manager.csproj", "{97AB730E-1980-45C4-A638-839B58EF35C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4A6105DB-A031-4E86-A24D-82720AB9C93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A6105DB-A031-4E86-A24D-82720AB9C93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A6105DB-A031-4E86-A24D-82720AB9C93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A6105DB-A031-4E86-A24D-82720AB9C93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97AB730E-1980-45C4-A638-839B58EF35C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AB730E-1980-45C4-A638-839B58EF35C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AB730E-1980-45C4-A638-839B58EF35C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AB730E-1980-45C4-A638-839B58EF35C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9435849F-0DE3-423E-845C-502FAA919C58}
+		SolutionGuid = {A6974B5D-859D-4EAB-9E6F-C5468C7C3DD3}
 	EndGlobalSection
 EndGlobal
